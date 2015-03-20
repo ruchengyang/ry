@@ -1,0 +1,11 @@
+C:\trading\Vschon\Vschon\bin\Debug\Vschon.exe.config
+C:\trading\Vschon\Vschon\obj\Debug\Vschon.Form1.resources
+C:\trading\Vschon\Vschon\obj\Debug\Vschon.Properties.Resources.resources
+C:\trading\Vschon\Vschon\obj\Debug\Vschon.csproj.GenerateResource.Cache
+C:\trading\Vschon\Vschon\bin\Debug\Vschon.exe
+C:\trading\Vschon\Vschon\bin\Debug\Vschon.pdb
+C:\trading\Vschon\Vschon\obj\Debug\Vschon.exe
+C:\trading\Vschon\Vschon\obj\Debug\Vschon.pdb
+C:\trading\Vschon\Vschon\obj\Debug\Vschon.csprojResolveAssemblyReference.cache
+C:\trading\Vschon\Vschon\obj\Debug\Vschon.TestForm.resources
+C:\trading\Vschon\Vschon\obj\Debug\Vschon.Form_Update_CFFEX_IF_Quote.resources
